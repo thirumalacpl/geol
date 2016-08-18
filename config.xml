@@ -34,7 +34,7 @@
 
   <preference name="FadeSplashScreen" value="false"/>
 
- "<preference name="AndroidPersistentFileLocation" value="Compatibility" />"
+
 
 <preference name="SplashMaintainAspectRatio" value="true|false" />
 <preference name="SplashShowOnlyFirstTime" value="false" />
@@ -97,5 +97,5 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    
+
 </widget>
